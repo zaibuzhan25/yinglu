@@ -1,0 +1,8 @@
+mss>=10.1.0
+soundcard>=0.4.6
+numpy>=1.24
+Pillow>=9.5.0
+pywin32>=306
+imageio-ffmpeg>=0.5.1
+dxcam>=0.3.0
+comtypes>=1.4.0
